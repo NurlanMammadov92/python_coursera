@@ -1,1 +1,2 @@
-# Testing
+# Assignment 3 - More Pandas
+This assignment requires more individual learning then the last one did - you are encouraged to check out the [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/) to find functions or methods you might not have used yet, or ask questions on [Stack Overflow](https://stackoverflow.com) and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
