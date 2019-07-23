@@ -1,10 +1,12 @@
 # Assignment 3 - More Pandas
 This assignment requires more individual learning then the last one did - you are encouraged to check out the [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/) to find functions or methods you might not have used yet, or ask questions on [Stack Overflow](https://stackoverflow.com) and tag them as pandas and python related. And of course, the discussion forums are open for interaction with your peers and the course staff.
 ## Question 1 (20%)
-Load the energy data from the file Energy Indicators.xls, which is a list of indicators of [energy supply and renewable electricity production](assignment_3/Energy Indicators.xls) from the United Nations for the year 2013, and should be put into a DataFrame with the variable name of **energy**.
+Load the energy data from the file Energy Indicators.xls, which is a list of indicators of [energy supply and renewable electricity production](https://github.com/NurlanMammadov92/python_coursera/blob/master/assignment_3/Energy%20Indicators.xls) from the United Nations for the year 2013, and should be put into a DataFrame with the variable name of **energy**.
 Keep in mind that this is an Excel file, and not a comma separated values file. Also, make sure to exclude the footer and header information from the datafile. The first two columns are unneccessary, so you should get rid of them, and you should change the column labels so that the columns are:
 
 ['Country', 'Energy Supply', 'Energy Supply per Capita', '% Renewable']
+
+
 Convert Energy Supply to gigajoules (there are 1,000,000 gigajoules in a petajoule). For all countries which have missing data (e.g. data with "...") make sure this is reflected as np.NaN values.
 
 Rename the following list of countries (for use in later questions):
