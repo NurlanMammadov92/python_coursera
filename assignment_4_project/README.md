@@ -25,7 +25,7 @@ The following data files are available for this assignment:
 
 Each function in this assignment below is worth 10%, with the exception of `run_ttest()`, which is worth 50%.
 
-Important Note: 
+Important note: 
 
 The following functions are graded in order to complete the project:
 
