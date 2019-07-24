@@ -50,14 +50,12 @@ Which country has won the most gold medals in summer games?
 
 Which country had the biggest difference between their summer and winter gold medal counts?
 
-*This function should return a single string value.* $ \frac{Summer Gold−Winter Gold}{Total Gold} $
+*This function should return a single string value.*
 
 ## Question 3
 
 Which country has the biggest difference between their summer gold medal counts and winter gold medal counts relative to their total gold medal count?
 
-                                $\frac{Summer Gold−Winter Gold}{Total Gold}$
- 
 Only include countries that have won at least 1 gold in both summer and winter.
 
 *This function should return a single string value.*
