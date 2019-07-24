@@ -67,6 +67,7 @@ By how much had the GDP changed over the 10 year span for the country with the 6
 
 ## Question 5 (6.6%)
 What is the mean `Energy Supply per Capita`?
+
 *This function should return a single number.*
 
 
